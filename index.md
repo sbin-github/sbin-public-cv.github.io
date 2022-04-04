@@ -68,6 +68,8 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 - Development of libraries for sensors
 - Basic wireless communication
 
+<img src="images/extra/BuildLib.png?raw=true"/>
+
 ### <mark>Basic mechanical system design</mark>
 - Mechanical design for machining or printing
 - Part selecting, programming, wiring and etc.
