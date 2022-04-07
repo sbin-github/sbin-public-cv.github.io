@@ -75,7 +75,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 ### <mark>Basic mechanical system design</mark>
 - Mechanical design for machining or printing
 - Part selecting, programming, wiring and etc.
-- 
+
 <img src="images/extra/MechProduct.png?raw=true"/>
 
 ---
@@ -83,12 +83,11 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 - Image source generating and post-processing
 - Basic skills on Photoshop and Illustrator
 
----
 <img src="images/extra/imgsources.png?raw=true"/>
 
 ---
 
-[test](/Review/RL/AMP.md)
+<!-- [test](/Review/RL/AMP.md) -->
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
