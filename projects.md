@@ -7,9 +7,6 @@ mark {
 </style>
 </head>
 
-<h1> Projects (as the main investigator) </h1>
-
-<br>
 
 <h2> Human-Computer Interaction </h2>
 **\*This project is funded by NRF (생체신호센서융합기술개발사업)**
