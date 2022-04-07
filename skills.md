@@ -7,7 +7,7 @@ mark {
 </style>
 </head>
 
-## My   8n1256234231  1Skills
+## My Skills
 ---
 
 ### <mark>PCB artwork</mark>
