@@ -100,7 +100,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 
 ---
 
-<!-- [test](/Review/RL/AMP.md) -->
+[test](/Review/RL/AMP.md)
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
