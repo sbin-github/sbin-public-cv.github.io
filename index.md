@@ -77,7 +77,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 - Part selecting, programming, wiring and etc.
 
 <figure>
-    <img src="images/extra/MechProduct.png?raw=true"/>
+    <img src="images/extra/MechProduct.png?raw=true" style="width:100%">
     <figcaption align = "center">Wearable experience module, funded by Shinsegae</figcaption>
     <figcaption>Wearable experience module, funded by Shinsegae</figcaption>
 </figure>
