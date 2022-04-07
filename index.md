@@ -7,7 +7,7 @@ mark {
 </style>
 </head>
 
-<h1> Projects (as a main investigator) </h1>
+<h1> Projects (as the main investigator) </h1>
 
 <br>
 
