@@ -19,7 +19,7 @@ I am higly motivated to apply machine learning to robotics. Currently, I am stud
 
 <h2>Experience</h2>
 - Student internship at Dyze design in Montreal for 4 months
-- Temporal translator of KYC Service working in a Hyundai Motor Company factory for 2 weaks
+- Temporal translator at KYC Service for the Hyundai Motor Company factory in Jeonju for 2 weaks
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
