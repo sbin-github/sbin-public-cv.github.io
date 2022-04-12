@@ -12,9 +12,9 @@ mark {
 ---
 
 ### <mark>Machine learning</mark>
-- Implement of developed models
-- Solve real-world problems using ML
-- Learning-based pysics simulation in Isaac Gym
+- Implementation of ML in any problem
+- Solving real-world problems using ML
+- Learning-based physics simulation in Isaac Gym
 
 (You can see [#Projects tab](/projects) to see the projects using ML)
 
