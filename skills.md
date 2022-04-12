@@ -11,6 +11,17 @@ mark {
 
 ---
 
+### <mark>Machine learning</mark>
+- Implement of developed models
+- Solve real-world problems using ML
+- Learning-based pysics simulation in Isaac Gym
+
+(You can see #Projects tab to see the projects using ML)
+
+<img src="images/extra/PCB_Artwork.png?raw=true"/>
+
+---
+
 ### <mark>PCB artwork</mark>
 - From datasheets to a PCB
 
@@ -51,8 +62,6 @@ mark {
 <img src="images/extra/imgsources.png?raw=true"/>
 
 ---
-
-[test](/Review/RL/AMP.md)
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
