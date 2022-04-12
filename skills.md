@@ -16,9 +16,7 @@ mark {
 - Solve real-world problems using ML
 - Learning-based pysics simulation in Isaac Gym
 
-(You can see #Projects tab to see the projects using ML)
-
-<img src="images/extra/PCB_Artwork.png?raw=true"/>
+(You can see [#Projects tab](/projects) to see the projects using ML)
 
 ---
 
