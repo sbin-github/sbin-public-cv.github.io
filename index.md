@@ -13,9 +13,15 @@ mark {
 <h2>Research interest</h2>
 I am higly motivated to apply machine learning to robotics. Currently, I am studying to make a wearable robot that can replace a wheelchair in the KAIST EXO lab.
 
+<br>
+<br>
+
 <h2>Education</h2>
 - Recived B.A. in department of Mechanical Engineering from UNIST in 2021
 - Currently in Master' course of Robotics Program from KAIST
+
+<br>
+<br>
 
 <h2>Experience</h2>
 - Student internship at Dyze design in Montreal for 4 months
