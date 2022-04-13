@@ -20,14 +20,19 @@ I always try to study what I need while acknowledging my shortcomings. I want to
 <br>
 
 <h2>Education</h2>
-- Recived B.A. in department of Mechanical Engineering from UNIST in 2021
-- Currently in Master's course of Robotics Program from KAIST
+* UNIST, 2014 ~ 2021
+  * Bachelor of Science in department of Mechanical Engineering, Summa Cumme Laude
+
+* KAIST, 2021 ~
+  * Master's course in Robotics Program
+  * A member of [EXO LAB](http://robotics.kaist.ac.kr)
+
 
 <br>
 <br>
 
 <h2>Experience</h2>
-- Student internship at Dyze design in Montreal for 4 months
+- Student internship at Dyze Design in Montreal for 4 months
 - Temporal translator at KYC Service for the Hyundai Motor Company factory in Jeonju for 2 weaks
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
