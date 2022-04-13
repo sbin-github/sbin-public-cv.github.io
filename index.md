@@ -7,12 +7,13 @@ mark {
 </style>
 </head>
 
-<h1> Introduce </h1>
+<h1> Home </h1>
 ---
 
 <br>
-<h2>Research interest</h2>
-I am higly motivated to apply machine learning to robotics. Currently, I am studying to make a wearable robot that can replace a wheelchair in the KAIST EXO lab.
+<h2>Introduce</h2>
+Currently, I am studying to make a wearable robot that can replace a wheelchair in the KAIST EXO lab. I am very interested in applying machine learning to robots.
+I always try to study what I need while acknowledging my shortcomings. I want to be a person who always wants to learn without fear of new things.
 
 <br>
 <br>
