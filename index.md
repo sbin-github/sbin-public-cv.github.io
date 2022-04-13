@@ -21,7 +21,7 @@ I always try to study what I need while acknowledging my shortcomings. I want to
 
 <h2>Education</h2>
 - Recived B.A. in department of Mechanical Engineering from UNIST in 2021
-- Currently in Master' course of Robotics Program from KAIST
+- Currently in Master's course of Robotics Program from KAIST
 
 <br>
 <br>
