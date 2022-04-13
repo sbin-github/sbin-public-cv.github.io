@@ -9,7 +9,7 @@ mark {
 
 
 <h2> Human-Computer Interaction </h2>
-**\*This project is funded by NRF (생체신호센서융합기술개발사업)**
+**\*This project is being funded by NRF (생체신호센서융합기술개발사업)**
 
 ---
 ### <mark>Improvement of gesture recognition</mark>
