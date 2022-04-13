@@ -33,8 +33,9 @@ I always try to study what I need while acknowledging my shortcomings. I want to
 <br>
 
 <h2>Experience</h2>
-- Student internship at Dyze Design in Montreal for 4 months
-- Temporal translator at KYC Service for a facility of Hyundai Motor Company in Jeonju for 2 weeks
+
+* Student internship at Dyze Design in Montreal for 4 months
+* Temporal translator at KYC Service for a facility of Hyundai Motor Company in Jeonju for 2 weeks
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
