@@ -20,6 +20,7 @@ I always try to study what I need while acknowledging my shortcomings. I want to
 <br>
 
 <h2>Education</h2>
+
 * UNIST, 2014 ~ 2021
   * Bachelor of Science in department of Mechanical Engineering, Summa Cumme Laude
 
