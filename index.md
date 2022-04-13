@@ -7,7 +7,7 @@ mark {
 </style>
 </head>
 
-<h1> CV </h1>
+<h1> HOME </h1>
 ---
 
 <br>
