@@ -13,6 +13,7 @@ mark {
 <br>
 <h2>Introduce</h2>
 Currently, I am studying to make a wearable robot that can replace a wheelchair in the KAIST EXO lab. I am very interested in applying machine learning to robots.
+
 I always try to study what I need while acknowledging my shortcomings. I want to be a person who always wants to learn without fear of new things.
 
 <br>
