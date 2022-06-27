@@ -57,7 +57,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 ## Courseworks
 ---
 
-### <mark>Momentum Frame: Physics Learned from Momentum Frame</mark>
+### <mark>Momentum Frame: Training Physics from Momentum Information</mark>
 {% include youtubePlayer.html id="tmLDXB6z8Mc" %}
 <br>
 CS570 - Artificial Intelligence and Machine Learning
