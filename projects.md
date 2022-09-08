@@ -32,6 +32,7 @@ Details will be released later.
 ---
 ### <mark>Real-time gait analysis for soft wearable robots</mark>
 {% include youtubePlayer.html id="vO7Zg8ciqf0" %}
+{% include youtubePlayer.html id="fRwCSk-NRls" %}
 _(Under progress)_
 <br>
 Most gait analysis methods employ IMUs or encoders. However, those sensor system requires solid brackets, and misalignment problems are often caused. We developed a soft sensor system with an ergonomic design and optimized our algorithm for the robust real-time gait phase & mode analysis.
@@ -42,7 +43,8 @@ Most gait analysis methods employ IMUs or encoders. However, those sensor system
 ---
 
 <br>
-## Learning-based Control
+<h2>Learning-based Control</h2>
+**\*This project is being funded by NRF (보행장애 완전극복 웨어러블 로봇기술을 위한 인간운동제어이론 연구)**
 ---
 
 ### <mark>Transfer of human gait style to robots with limited DOFs</mark>
