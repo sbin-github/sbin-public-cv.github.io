@@ -11,7 +11,7 @@ mark {
 <h2> Human-Computer Interaction </h2>
 **\*This project is being funded by NRF (생체신호센서융합기술개발사업)**
 
-**(Project goal: Human-machine high-speed synchronization control technology)**
+**\*\*Project goal: Human-machine high-speed synchronization control technology**
 
 ---
 ### <mark>Improvement of gesture recognition</mark>
@@ -48,7 +48,7 @@ Most gait analysis methods employ IMUs or encoders. However, those sensor system
 <h2>Learning-based Control</h2>
 **\*This project is being funded by NRF (보행장애 완전극복 웨어러블 로봇기술을 위한 인간운동제어이론 연구)**
 
-**Project goal: Human-robot integrated control for wearable robots to completely overcome gait disorders**
+**\*\*Project goal: Human-robot integrated control for wearable robots to completely overcome gait disorders**
 
 ---
 
