@@ -12,9 +12,8 @@ mark {
 
 <br>
 <h2>Introduce</h2>
-Currently, I am studying to make a wearable robot that can replace a wheelchair in the KAIST EXO lab. I am very interested in applying machine learning to robots.
-
-I always try to study what I need while acknowledging my shortcomings. I want to be a person who always wants to learn without fear of new things.
+Currently, I am studying to develop wearable robots that can replace wheelchairs in the KAIST EXO lab.
+I always try to study what I need while acknowledging my shortcomings. I want to be a person who is always motivated to learn novel things.
 
 <br>
 <br>
@@ -35,7 +34,6 @@ I always try to study what I need while acknowledging my shortcomings. I want to
 <h2>Experience</h2>
 
 * Student internship at Dyze Design in Montreal for 4 months
-* Temporal translator at KYC Service for a facility of Hyundai Motor Company in Jeonju for 2 weeks
-
+P
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
