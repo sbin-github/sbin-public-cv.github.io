@@ -16,7 +16,7 @@ mark {
 - Solving real-world problems using ML
 - Learning-based physics simulation in Isaac Gym
 
-(You can see [#Projects tab](/projects) to see the projects using ML)
+(You can see the [#Projects tab](/projects) to look over my projects using ML)
 
 ---
 
