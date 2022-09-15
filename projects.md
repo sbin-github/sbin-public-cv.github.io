@@ -25,7 +25,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 {% include youtubePlayer.html id="dueZzaKWLBw" %}
 _(Under progress)_
 <br>
-Wearable robot has continuous unobservable, nonlinear and non-periodic disturbances from its users. The project aims to design a robust controller based on hybrid structure of learning-based and model based controllers. Also, the walking style of human is embedded to robot control considering the safety and demands of real patients.
+Control of a wearable robot requires considering unobservable, nonlinear and non-periodic disturbances from its users. This project aims to design a robust controller based on hybrid structure of learning-based and model based controllers. Also, the walking style of human is embedded to robot control considering the safety and demands of real patients.
 
 ---
 
@@ -61,7 +61,7 @@ _(Under progress)_
 Most gait analysis methods employ IMUs or encoders. However, those sensor system requires solid brackets, and misalignment problems are often caused. We developed a soft sensor system with an ergonomic design and optimized our algorithm for the robust real-time gait phase & mode analysis.
 <br>
 - A very early step of this study was announced in [IEEE ICCAS 2021](https://ieeexplore.ieee.org/document/9649762)
-- Another early step was accepted by IFAC MECHATRONICS 2022
+- Another early step was announced in IFAC MECHATRONICS 2022
 
 ---
 
