@@ -8,9 +8,24 @@ mark {
 </head>
 
 
+<h2>Learning-based Control</h2>
+**\*This project is being funded by NRF (보행장애 완전극복 웨어러블 로봇기술을 위한 인간운동제어이론 연구)**
+**\*\*Project goal: Human integrated control for wearable robots to completely overcome gait disorders**
+
+---
+
+### <mark>Transfer of human gait style to robots with limited DOFs</mark>
+{% include youtubePlayer.html id="wcGt7EAkdVg" %}
+{% include youtubePlayer.html id="dueZzaKWLBw" %}
+_(Under progress)_
+<br>
+Natural-looking joint trajectory generation is essential for wearable robots. At the same time, the system must consider the wearer's safety and reasonable energy consumption. This study aims to transfer the walking style of the human being to a robot with limited DOFs based on the Adversarial Motion Priors [(X. B. Peng et al.)](https://arxiv.org/abs/2104.02180), while strictly maintaining the safety factors and observing energy efficiency.
+
+---
+
+<br>
 <h2> Human-Computer Interaction </h2>
 **\*This project is being funded by NRF (생체신호센서융합기술개발사업)**
-
 **\*\*Project goal: Human-robot high-speed synchronization**
 
 ---
@@ -41,23 +56,6 @@ Most gait analysis methods employ IMUs or encoders. However, those sensor system
 <br>
 - A very early step of this study was announced in [IEEE ICCAS 2021](https://ieeexplore.ieee.org/document/9649762)
 - Another early step was accepted by IFAC MECHATRONICS 2022
-
----
-
-<br>
-<h2>Learning-based Control</h2>
-**\*This project is being funded by NRF (보행장애 완전극복 웨어러블 로봇기술을 위한 인간운동제어이론 연구)**
-
-**\*\*Project goal: Human integrated control for wearable robots to completely overcome gait disorders**
-
----
-
-### <mark>Transfer of human gait style to robots with limited DOFs</mark>
-{% include youtubePlayer.html id="wcGt7EAkdVg" %}
-{% include youtubePlayer.html id="dueZzaKWLBw" %}
-_(Under progress)_
-<br>
-Natural-looking joint trajectory generation is essential for wearable robots. At the same time, the system must consider the wearer's safety and reasonable energy consumption. This study aims to transfer the walking style of the human being to a robot with limited DOFs based on the Adversarial Motion Priors [(X. B. Peng et al.)](https://arxiv.org/abs/2104.02180), while strictly maintaining the safety factors and observing energy efficiency.
 
 ---
 
