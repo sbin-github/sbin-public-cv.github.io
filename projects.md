@@ -25,7 +25,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 {% include youtubePlayer.html id="dueZzaKWLBw" %}
 _(Under progress)_
 <br>
-Wearable robot has unobservable, nonlinear and non-periodic disturbance from its users. The project aims to design a robust controller based on hybrid structure of learning-based and model based controllers. Also, the walking style of human is embedded to robot control considering the safety and demands of real patients.
+Wearable robot has continuous unobservable, nonlinear and non-periodic disturbances from its users. The project aims to design a robust controller based on hybrid structure of learning-based and model based controllers. Also, the walking style of human is embedded to robot control considering the safety and demands of real patients.
 
 ---
 
