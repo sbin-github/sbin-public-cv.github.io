@@ -10,7 +10,7 @@ mark {
 
 <h2>Learning-based Control</h2>
 **\*This project is being funded by NRF (보행장애 완전극복 웨어러블 로봇기술을 위한 인간운동제어이론 연구)**
-
+<br>
 **\*\*Project goal: Human integrated control for wearable robots to completely overcome gait disorders**
 
 ---
@@ -33,8 +33,8 @@ Control of a wearable robot requires considering unobservable, nonlinear and non
 <br>
 <h2> Human-Computer Interaction </h2>
 **\*This project is being funded by NRF (생체신호센서융합기술개발사업)**
-
-**\*\*Project goal:  Human-robot high-speed synchronization**
+<br>
+**\*\*Project goal: Human-robot high-speed synchronization**
 
 ---
 ### <mark>Improvement of gesture recognition</mark>
