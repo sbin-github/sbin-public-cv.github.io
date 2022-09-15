@@ -14,7 +14,7 @@ mark {
 ### <mark>Machine learning</mark>
 - Implementation of ML in any problem
 - Solving real-world problems using ML
-- Learning-based physics simulation in Isaac Gym
+- Isaac Gym environment construction and controller embedding
 
 (You can see the [#Projects tab](/projects) to look over my projects using ML)
 
