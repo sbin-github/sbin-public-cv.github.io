@@ -16,7 +16,6 @@ mark {
 ---
 
 ### <mark>Transfer of style to robots with limited DOFs</mark>
-{% include youtubePlayer.html id="wcGt7EAkdVg" %}
 {% include youtube.html id="wcGt7EAkdVg" %}
 _(Under progress)_
 <br>
@@ -24,8 +23,8 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 
 ---
 ### <mark>Robust controller for wearable robots</mark>
-{% include youtubePlayer.html id="dueZzaKWLBw" %}
-{% include youtubePlayer.html id="u0uSIhfIuNE" %}
+{% include youtube.html id="dueZzaKWLBw" %}
+{% include youtube.html id="u0uSIhfIuNE" %}
 _(Under progress)_
 <br>
 Control of a wearable robot requires considering unobservable, nonlinear and non-periodic disturbances from its users. This project aims to design a robust controller based on hybrid structure of learning-based and model based controllers. Also, the walking style of human is embedded to robot control considering the safety and demands of real patients.
@@ -49,7 +48,7 @@ Details will be released later.
 
 ---
 ### <mark>Real-world application of gesture recognition</mark>
-{% include youtubePlayer.html id="spRBrlzH1nE" %}
+{% include youtube.html id="spRBrlzH1nE" %}
 _(Paper in preparation)_
 <br>
 Studies on gesture recognition are often not focused on real-world applications. We studied the critical factors in gesture recognition in the presence of dynamic arm movements. Based on the analysis, we suggested sensor placement, training method, and classification algorithm for real-world applications. Especially, we proposed a reliable out-of-distribution data elimination method for the robust application.
@@ -58,8 +57,8 @@ Details will be released later.
 
 ---
 ### <mark>Real-time gait analysis for soft wearable robots</mark>
-{% include youtubePlayer.html id="vO7Zg8ciqf0" %}
-{% include youtubePlayer.html id="fRwCSk-NRls" %}
+{% include youtube.html id="vO7Zg8ciqf0" %}
+{% include youtube.html id="fRwCSk-NRls" %}
 _(Under progress)_
 <br>
 Most gait analysis methods employ IMUs or encoders. However, those sensor system requires solid brackets, and misalignment problems are often caused. We developed a soft sensor system with an ergonomic design and optimized our algorithm for the robust real-time gait phase & mode analysis.
@@ -74,7 +73,7 @@ Most gait analysis methods employ IMUs or encoders. However, those sensor system
 ---
 
 ### <mark>Momentum Frame: Training Physics from Momentum Information</mark>
-{% include youtubePlayer.html id="tmLDXB6z8Mc" %}
+{% include youtube.html id="tmLDXB6z8Mc" %}
 <br>
 CS570 - Artificial Intelligence and Machine Learning
 
