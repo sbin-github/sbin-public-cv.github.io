@@ -18,6 +18,9 @@ mark {
 
 (You can see the [#Projects tab](/projects) to look over my projects using ML)
 
+
+<img src="images/rl/rl_alg.png?raw=true"/>
+
 ---
 
 ### <mark>PCB artwork</mark>
