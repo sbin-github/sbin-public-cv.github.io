@@ -23,7 +23,6 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 
 ---
 ### <mark>Robust controller for wearable robots</mark>
-<img src="images/rl/rl_alg.png?raw=true"/>
 {% include youtube.html id="dueZzaKWLBw" %}
 {% include youtube.html id="u0uSIhfIuNE" %}
 _(Under progress)_
