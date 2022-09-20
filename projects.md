@@ -40,7 +40,7 @@ Control of a wearable robot requires considering unobservable, nonlinear and non
 ---
 ### <mark>Improvement of gesture recognition</mark>
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
-_(Paper submitted)_
+_(Under review)_
 <br>
 Our study focused on obtaining high resolution features from the passive elastic elements in the human body. We achieved 97.5% accuracy in the classification of 28 gestures. The baseline prevailing method with 8-channel sEMG (Delsys, USA) achieved 94% accuracy. The experiment involved 10 subjects.
 <br>
