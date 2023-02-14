@@ -35,7 +35,6 @@ I want to stay motivated to learn and apply new knowledge and skills.
   * Robotics Program
   * Korea Advanced Institute of Science and Technology (KAIST)
   * [EXO LAB](http://robotics.kaist.ac.kr) AI Team
-
 <br>
 <br>
 
