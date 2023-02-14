@@ -33,7 +33,7 @@ I always try to study what I need while acknowledging my shortcomings. I want to
 
 <h2>Experience</h2>
 
-* Student internship at Dyze Design in Montreal for 4 months
+* Student internship at Dyze Design in Montreal (Jan 2019 ~ May 2019)
 
 <!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
