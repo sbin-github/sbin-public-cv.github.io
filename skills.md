@@ -10,7 +10,7 @@ mark {
 
 <h1> SKILLS </h1>
 
----
+<hr style="height:3px; background-color:black; border:0;">
 
 ### <mark>Machine learning</mark>
 - Implementation of ML in any problem
