@@ -13,10 +13,10 @@ mark {
 
 ### <mark>Machine learning</mark>
 - Implementation of ML in any problem
-- Solving real-world problems using ML
-- Isaac Gym environment construction and controller embedding
+- Solving noisy real-world problems using ML
+- Isaac Gym/Sim environment development and interaction
 
-(You can see the [#Projects tab](/projects) to look over my projects using ML)
+<!-- (You can see the [#Projects tab](/projects) to look over my projects using ML) -->
 
 
 <img src="images/rl/rl_alg_new.png?raw=true"/>
