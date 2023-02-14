@@ -79,6 +79,8 @@ mark {
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         <button class="button button2" onclick="location.href='https://sbin-public-cv.github.io' ">Home</button>
         <br>
@@ -87,7 +89,6 @@ mark {
         <button class="button button2" onclick="location.href='https://sbin-public-cv.github.io/skills' ">Skills</button>
         <br>
         
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
         <h4><center> MENU </center></h4>
         <hr>
         <hr>
