@@ -37,7 +37,7 @@ I want to stay motivated to learn and apply new knowledge and skills.
   * Korea Advanced Institute of Science and Technology (KAIST)
   * [EXO LAB](http://robotics.kaist.ac.kr) AI Team
 <br>
-
+<br>
 <h2>Experience</h2>
 
 * Student internship at Dyze Design in Montreal (Jan ~ May 2017)
