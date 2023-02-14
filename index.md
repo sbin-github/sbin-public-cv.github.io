@@ -25,7 +25,7 @@ I always try to study what I need while acknowledging my shortcomings. I want to
 
 * KAIST, 2021 ~
   * Master's course in Robotics Program
-  * A member of [EXO LAB](http://robotics.kaist.ac.kr)
+  * [EXO LAB](http://robotics.kaist.ac.kr) AI team member
 
 
 <br>
