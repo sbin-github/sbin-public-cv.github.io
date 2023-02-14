@@ -7,6 +7,20 @@ mark {
   color: rgb(48, 63, 87);
 }
 </style>
+<style>
+mybutton:link, mybutton:visited {
+  background-color: #111144;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+mybutton:hover, mybutton:active {
+  background-color: blue;
+}
+</style>
 </head>
 
 <html lang="{{ site.lang | default: "en-US" }}">
@@ -33,11 +47,11 @@ mark {
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <h4><center> MENU </center></h4>
         <hr>
-        <h2><center><a href="https://sbin-public-cv.github.io"><mark> #Home</mark></a></center><h2>
+        <h2><center><mybutton href="https://sbin-public-cv.github.io"><mark> #Home</mark></mybutton></center><h2>
         <hr>
-        <h2><center><a href="https://sbin-public-cv.github.io/projects"><mark> #Research</mark></a></center><h2>
+        <h2><center><mybutton href="https://sbin-public-cv.github.io/projects"><mark> #Research</mark></mybutton></center><h2>
         <hr>
-        <h2><center><a href="https://sbin-public-cv.github.io/skills"><mark> #Skills</mark></a></center><h2>
+        <h2><center><mybutton href="https://sbin-public-cv.github.io/skills"><mark> #Skills</mark></mybutton></center><h2>
         <hr>
         
 
