@@ -31,7 +31,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 {% include youtube.html id="u0uSIhfIuNE" %}
 _(Under progress)_
 <br>
-Control of a wearable robot requires considering unobservable, nonlinear and non-periodic disturbances from its user. This project aims to design a robust controller based on hybrid structure of learning-based and model based controllers. Also, the walking style of human is embedded to robot control considering the safety and demands of real patients.
+Control of a wearable robot requires considering unobservable, nonlinear, and non-periodic disturbances from its user. This project aims to design a robust controller based on a hybrid structure of learning-based and model-based controllers. Also, the walking style of humans is transferred to robot joint trajectory with considering the safe range of motion and demands of real-world patients.
 
 ---
 
@@ -46,7 +46,7 @@ Control of a wearable robot requires considering unobservable, nonlinear and non
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
 _(Under review)_
 <br>
-Our study focused on obtaining high resolution features from the passive elastic elements in the human body. We achieved 97.5% accuracy in the classification of 28 gestures. The baseline prevailing method with 8-channel sEMG (Delsys, USA) achieved 94% accuracy. The experiment involved 10 subjects.
+Our study focused on obtaining high resolution features from the passive elastic elements in the human body. We achieved 98.0% accuracy in the classification of 28 gestures. The baseline prevailing method with 8-channel sEMG (Delsys, USA) achieved 93.1% accuracy. The experiment involved 10 subjects and evaluated with 5-fold cross-validation.
 <br>
 Details will be released later.
 
