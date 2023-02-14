@@ -13,7 +13,7 @@ mark {
 
 <br>
 <h2>Introduce</h2>
-<center><p style="color:#2266aa; font-weight:bold;"> "Dreaming of Being an End-to-End Robot Developer" </p></center>
+<center><p style="color:#2266aa;"> "Dreaming of Being an End-to-End Robot Developer" </p></center>
 Studying to develop wearable robots that can replace wheelchairs in the KAIST EXO lab.
 I want to stay motivated to learn and apply new knowledge and skills.
 <br>
