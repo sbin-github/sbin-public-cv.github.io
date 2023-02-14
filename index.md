@@ -12,8 +12,8 @@ mark {
 
 <br>
 <h2>Introduce</h2>
-Currently, I am studying to develop wearable robots that can replace wheelchairs in the KAIST EXO lab.
-I always try to study what I need while acknowledging my shortcomings. I want to be a person who is always motivated to learn novel things.
+Studying to develop wearable robots that can replace wheelchairs in the KAIST EXO lab.
+I am trying to be a person who is always motivated to learn and apply novel technologies.
 
 <br>
 <br>
