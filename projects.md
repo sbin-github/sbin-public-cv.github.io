@@ -8,7 +8,9 @@ mark {
 </head>
 
 <h1> RESEARCH </h1>
----
+
+<hr style="height:3px; background-color:black; border:0;">
+
 
 <h2>Learning-based Control</h2>
 **\*This project is being funded by NRF (보행장애 완전극복 웨어러블 로봇기술을 위한 인간운동제어이론 연구)**
