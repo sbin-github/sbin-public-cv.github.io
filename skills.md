@@ -7,7 +7,8 @@ mark {
 </style>
 </head>
 
-## My Skills
+
+<h1> SKILLS </h1>
 
 ---
 
