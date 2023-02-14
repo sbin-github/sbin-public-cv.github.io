@@ -8,7 +8,8 @@ mark {
 </head>
 
 <h1> HOME </h1>
----
+
+<hr style="height:3px; background-color:black; border:0;">
 
 <br>
 <h2>Introduce</h2>
