@@ -21,13 +21,20 @@ I want to stay motivated to learn and apply new knowledge and skills.
 
 <h2>Education</h2>
 
-* UNIST, 2014 ~ 2021
-  * Bachelor of Science in department of Mechanical Engineering, Summa Cumme Laude
+* Bachelor of Science, 2021
+  * Department of Mechanical Engineering
+  * Ulsan National Institute of Science and Technology (UNIST)
+  * Summa Cum Laude
 
-* KAIST, 2021 ~
-  * Master's course in Robotics Program
-  * [EXO LAB](http://robotics.kaist.ac.kr) AI team member
+* Master of Science, 2023
+  * Robotics Program
+  * Korea Advanced Institute of Science and Technology (KAIST)
+  * [EXO LAB](http://robotics.kaist.ac.kr)
 
+* (NOW) Ph.D Candidate (2023 ~)
+  * Robotics Program
+  * Korea Advanced Institute of Science and Technology (KAIST)
+  * [EXO LAB](http://robotics.kaist.ac.kr) AI Team
 
 <br>
 <br>
