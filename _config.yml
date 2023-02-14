@@ -1,14 +1,13 @@
 title: Seongbin An # your name (or website title) here
 logo: "/images/profile_MS3.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-
   <br>
   Study what I need.
   <br>
   sbin@kaist.ac.kr
-  <br><br>
+  <br>
   <a href="https://scholar.google.com/citations?user=_EnZafAAAAAJ&hl=en">Google scholar</a>
   <!-- <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> -->
-  
+  <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
