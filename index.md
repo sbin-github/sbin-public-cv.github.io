@@ -13,7 +13,7 @@ mark {
 
 <br>
 <h2>Introduce</h2>
-<center><p style="color:#2266aa;"> "I am Dreaming of Being an End-to-End Robot Developer" </p></center>
+<center><p style="color:#2266aa;"> "Aiming to be an End-to-End Robot Developer" </p></center>
 Studying to develop wearable robots that can replace wheelchairs in the KAIST EXO lab.
 I want to stay motivated to learn and apply new knowledge and skills.
 <br>
@@ -24,7 +24,7 @@ I want to stay motivated to learn and apply new knowledge and skills.
 * Bachelor of Science, 2021
   * Department of Mechanical Engineering
   * Ulsan National Institute of Science and Technology (UNIST)
-  * Summa Cum Laude
+  * Summa Cum Laude (Rank: 1/79)
 
 * Master of Science, 2023
   * Robotics Program
