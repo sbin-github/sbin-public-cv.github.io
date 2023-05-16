@@ -15,7 +15,13 @@ mark {
 <h2>Introduce</h2>
 <center><p style="color:#2266aa;"> "Aiming to be an End-to-End Robot Developer" </p></center>
 Studying to develop wearable robots that can replace wheelchairs in the KAIST EXO lab.
-I want to stay motivated to learn and apply new knowledge and skills.
+Trying to stay motivated to learn and apply new knowledge and skills.
+<br>
+<br>
+
+<h2>Research Interests</h2>
+- Robust human-computor interaction (HCI)
+- Optimal control & learning-based control in robotics
 <br>
 <br>
 
