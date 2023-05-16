@@ -27,7 +27,7 @@ Natural-looking joint trajectory generation is essential for wearable robots. At
 
 ---
 ### <mark>Robust controller for wearable robots</mark>
-{% include youtube.html id="dueZzaKWLBw" %}
+<!-- {% include youtube.html id="dueZzaKWLBw" %} -->
 {% include youtube.html id="u0uSIhfIuNE" %}
 _(Under progress)_
 <br>
@@ -44,14 +44,14 @@ Control of a wearable robot requires considering unobservable, nonlinear, and no
 ---
 ### <mark>Improvement of gesture recognition</mark>
 <img src="images/gesture_static/GesturesAccuracy.png?raw=true"/>
-_(Under review)_
+_(Accepted in IEEE Transactions on Industrial Informatics (IF=11.648))_
 <br>
 Our study focused on obtaining high resolution features from the passive elastic elements in the human body. We achieved 98.0% accuracy in the classification of 28 gestures. The baseline prevailing method with 8-channel sEMG (Delsys, USA) achieved 93.1% accuracy. The experiment involved 10 subjects and evaluated with 5-fold cross-validation.
 <br>
 Details will be released later.
 
 ---
-### <mark>Real-world application of gesture recognition</mark>
+### <mark>Robust real-world application of gesture recognition</mark>
 {% include youtube.html id="spRBrlzH1nE" %}
 _(Paper in preparation)_
 <br>
