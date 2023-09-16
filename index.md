@@ -10,7 +10,7 @@ mark {
 <h1> HOME </h1>
 
 <hr style="height:3px; background-color:black; border:0;">
-<!--
+<!-- 
 <br>
 <h2>Introduce</h2>
 <center><p style="color:#2266aa;"> Aiming to be an End-to-End Robot Developer </p></center>
@@ -18,7 +18,7 @@ Studying to develop wearable robots that can replace wheelchairs in the KAIST EX
 Trying to stay motivated to learn and apply new knowledge and skills.
 <br>
 <be>
--->
+ -->
 
 <h2>Research Interests</h2>
 - Optimal control & learning-based control in robotics
