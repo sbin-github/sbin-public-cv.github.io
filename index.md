@@ -40,7 +40,7 @@ Trying to stay motivated to learn and apply new knowledge and skills.
 * (NOW) Ph.D Candidate, 2023 ~
   * Robotics Program
   * Korea Advanced Institute of Science and Technology (KAIST)
-  * [EXO LAB](http://robotics.kaist.ac.kr) AI Team
+  * [EXO LAB](http://robotics.kaist.ac.kr)
 <br>
 <br>
 
