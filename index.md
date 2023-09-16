@@ -17,10 +17,12 @@ mark {
 Studying to develop wearable robots that can replace wheelchairs in the KAIST EXO lab.
 Trying to stay motivated to learn and apply new knowledge and skills.
 <br>
+<br>
 
 <h2>Research Interests</h2>
 - Optimal control & learning-based control in robotics
 - Robust human-computer interaction (HCI)
+<br>
 <br>
 
 <h2>Education</h2>
@@ -38,6 +40,7 @@ Trying to stay motivated to learn and apply new knowledge and skills.
   * Korea Advanced Institute of Science and Technology (KAIST)
   * [EXO LAB](http://robotics.kaist.ac.kr)
 <br>
+<br>
 
 <h2>Publications</h2>
 
@@ -49,6 +52,7 @@ Trying to stay motivated to learn and apply new knowledge and skills.
   * **S. An**, E. Song, H. Choi, and K. Kong, “Measurement of Force Myography in Level Gait and Stair Gait,” IFAC-PapersOnLine, vol. 55, no. 27, pp. 484–489, 2022.
   * **S. An**, H. Choi, and K. Kong, “Development of wireless pneumatic myography sensor for real-time muscle contraction measurement,” in 2021 21st International Conference on Control, Automation and Systems (ICCAS), 2021, pp. 1895–1900.
   * **안성빈**, 이대호, 최현진, and 공경철, “웨어러블 장치를 위한 무선 공압 센서 모듈,” 2021.
+<br>
 <br>
 
 <h2>Experience</h2>
