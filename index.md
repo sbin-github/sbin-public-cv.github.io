@@ -31,12 +31,10 @@ Trying to stay motivated to learn and apply new knowledge and skills.
   * Department of Mechanical Engineering
   * Ulsan National Institute of Science and Technology (UNIST)
   * Summa Cum Laude (Rank: 1/79)
-
 * Master of Science, 2023
   * Robotics Program
   * Korea Advanced Institute of Science and Technology (KAIST)
   * [EXO LAB](http://robotics.kaist.ac.kr)
-
 * (NOW) Ph.D Candidate, 2023 ~
   * Robotics Program
   * Korea Advanced Institute of Science and Technology (KAIST)
@@ -54,8 +52,6 @@ Trying to stay motivated to learn and apply new knowledge and skills.
   * **S. An**, E. Song, H. Choi, and K. Kong, “Measurement of Force Myography in Level Gait and Stair Gait,” IFAC-PapersOnLine, vol. 55, no. 27, pp. 484–489, 2022.
   * **S. An**, H. Choi, and K. Kong, “Development of wireless pneumatic myography sensor for real-time muscle contraction measurement,” in 2021 21st International Conference on Control, Automation and Systems (ICCAS), 2021, pp. 1895–1900.
   * **안성빈**, 이대호, 최현진, and 공경철, “웨어러블 장치를 위한 무선 공압 센서 모듈,” 2021.
-
-*안성빈, et al. "웨어러블 장치를 위한 무선 공압 센서 모듈." 제 16 회 한국로봇종합학술대회. 한국로봇학회, 2021.
 <br>
 <br>
 
