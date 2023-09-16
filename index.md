@@ -20,8 +20,8 @@ Trying to stay motivated to learn and apply new knowledge and skills.
 <br>
 
 <h2>Research Interests</h2>
-- Robust human-computor interaction (HCI)
 - Optimal control & learning-based control in robotics
+- Robust human-computor interaction (HCI)
 <br>
 <br>
 
