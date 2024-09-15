@@ -12,10 +12,19 @@ mark {
 <hr style="height:3px; background-color:black; border:0;">
 
 
-<h2>Learning-based Control</h2>
+<h2>Optimal/Learning-based Control</h2>
 **\*Funded by NRF (보행장애 완전극복 웨어러블 로봇기술을 위한 인간운동제어이론 연구)**
 <br>
 **\*\*Project goal: Human-integrated control for wearable robots to completely overcome gait disorders**
+
+
+---
+
+### <mark>MPC-based Stride-to-Stride Reference Trajectory Generation</mark>
+{% include youtube.html id="DeFXXFtqL-Y" %}
+_(Under progress)_
+<br>
+The research aims to one-stride reference generation for a biped robot suffering high-level disturbances, including modeling errors and external forces. A conservative one-stride reference is generated, which will be tracked by low-level control. The generated reference considers not only ZMP-based stable motion but also static transition between each gait.
 
 ---
 
