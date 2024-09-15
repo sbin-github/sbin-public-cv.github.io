@@ -56,7 +56,7 @@ Controlling a wearable robot necessitates accounting for unobservable, nonlinear
 <br>
 Our study focused on extracting high-resolution features from the passive elastic elements of the human body, achieving 98.0% accuracy in classifying 28 gestures. In comparison, the baseline method using an 8-channel sEMG system (Delsys, USA) reached 93.1% accuracy. The experiment involved 10 subjects and was evaluated using 5-fold cross-validation.
 <br>
-- Published in the *IEEE Transactions on Industrial Informatics (IF=11.7)*
+- Published in the [*IEEE Transactions on Industrial Informatics*](https://ieeexplore.ieee.org/abstract/document/10136753)
 
 ---
 ### <mark>Robust real-world application of gesture recognition</mark>
@@ -75,8 +75,8 @@ _(Under progress)_
 <br>
 Most gait analysis methods rely on IMUs or encoders; however, these sensor systems necessitate rigid mounts, often resulting in misalignment issues. To overcome this challenge, we developed a soft sensor system with an ergonomic design and optimized our algorithm to enable robust, real-time analysis of gait phases and modes.
 <br>
-- A very early step of this study was announced in [IEEE ICCAS 2021](https://ieeexplore.ieee.org/document/9649762)
-- Another early step was announced in [IFAC MECHATRONICS 2022](https://www.sciencedirect.com/science/article/pii/S240589632202612X)
+- A very early step of this study was announced in the [*IEEE ICCAS 2021*](https://ieeexplore.ieee.org/document/9649762)
+- Another early step was announced in the [*IFAC MECHATRONICS 2022*](https://www.sciencedirect.com/science/article/pii/S240589632202612X)
 
 ---
 
