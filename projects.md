@@ -56,7 +56,7 @@ Controlling a wearable robot necessitates accounting for unobservable, nonlinear
 <br>
 Our study focused on extracting high-resolution features from the passive elastic elements of the human body, achieving 98.0% accuracy in classifying 28 gestures. In comparison, the baseline method using an 8-channel sEMG system (Delsys, USA) reached 93.1% accuracy. The experiment involved 10 subjects and was evaluated using 5-fold cross-validation.
 <br>
-- Accepted in *IEEE Transactions on Industrial Informatics (IF=11.648)*
+- Published in the *IEEE Transactions on Industrial Informatics (IF=11.648)*
 
 ---
 ### <mark>Robust real-world application of gesture recognition</mark>
