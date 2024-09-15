@@ -24,10 +24,10 @@ mark {
 
 ---
 ### <mark>Embedded programming</mark>
-- Real-time programming on various platforms (STM32, Jetson, NI, etc.)
-- Experience in multiple programming languages (C, C++, Python, RTOS, Labview)
+- Various platforms (STM32, Jetson, NI, etc.)
+- Various programming languages (C/C++, Python, RTOS, Labview)
+- ROS2-based control frame design
 - Wired and wireless communication (SPI, I2C, SSI, UDP, TCP/IP, BLE, etc.)
-- Development of libraries for sensors
 
 <img src="images/extra/BuildLib.png?raw=true"/>
 
