@@ -1,6 +1,6 @@
 ## CV page
 
-[A repo for my personal CV](https://sbin-github.github.io/)
+A repo for [my personal CV](https://sbin-github.github.io/)
 
 ### References
 
