@@ -36,23 +36,31 @@ Trying to stay motivated to learn and apply new knowledge and skills.
   * Robotics Program
   * Korea Advanced Institute of Science and Technology (KAIST)
   * [EXO LAB](http://robotics.kaist.ac.kr)
-* (NOW) Ph.D Candidate, 2023 ~
+* Ph.D Candidate, 2023 ~ 2024
   * Robotics Program
   * Korea Advanced Institute of Science and Technology (KAIST)
   * [EXO LAB](http://robotics.kaist.ac.kr)
+* (NOW) Agency for Defence Development (ADD), 2024 ~
+  * Ground Technology Research Institute
 <br>
 <br>
 
 <h2>Publications</h2>
 
-* Journal
+* SCIE Journal
   * **S. An**, J. Feng, E. Song, K. Kong, J. Kim, and H. Choi, “High-Accuracy Hand Gesture Recognition on the Wrist Tendon Group Using Pneumatic Mechanomyography (pMMG),” IEEE Transactions on Industrial Informatics, 2023.
-* Conference
+    
+* International Conference
+  * T. Kim, E. Song, **S. An**, H. Choi and K. Kong, "Leaf-Inspired FSR Array and Insole-Type Sensor Module for Mobile Three-Dimensional Ground Reaction Force Estimation," 2024 IEEE International Conference on Robotics and Automation (ICRA), Yokohama, Japan, 2024, pp. 17459-17464, doi: 10.1109/ICRA57147.2024.10610058.
+  * E. S. Song, K. Kong, **S. An**, M. Kang, and H. Choi, ‘Wearable Robot Embedded Human Muscle Activity Monitoring System and Human-Oriented Joint Torque Calculation’, in 22nd IFAC World Congress 2023, 2023.
   * E. Song, **S. An**, H. Choi, and K. Kong, “Soft Sensor Unit for Measurement of Large Scale Multi-axis Force,” in 2022 13th Asian Control Conference (ASCC), 2022, pp. 1290–1295.
-  * **안성빈**, 공경철, 송은석, 박정수, and 최현진, “시뮬레이션 환경에서의 적대적 모방학습 기반 웨어러블 로봇 제어의 실현 가능성 연구,” in 제 17 회 한국로봇종합학술대회, 2022, pp. 191–192.
   * **S. An**, E. Song, H. Choi, and K. Kong, “Measurement of Force Myography in Level Gait and Stair Gait,” IFAC-PapersOnLine, vol. 55, no. 27, pp. 484–489, 2022.
   * **S. An**, H. Choi, and K. Kong, “Development of wireless pneumatic myography sensor for real-time muscle contraction measurement,” in 2021 21st International Conference on Control, Automation and Systems (ICCAS), 2021, pp. 1895–1900.
-  * **안성빈**, 이대호, 최현진, and 공경철, “웨어러블 장치를 위한 무선 공압 센서 모듈,” 2021.
+    
+* Domestic Conference
+  * **안성빈**, 안세일, 최성호, and 이용선, “강선력을 고려한 이차접근법 기반 강선 형상 최적 설계,” 2024 한국군사과학기술학회 종합학술대회, 2024.
+  * **안성빈**, 송은석, 박정수, 최현진, and 공경철, “시뮬레이션 환경에서의 적대적 모방학습 기반 웨어러블로봇 제어의 실현 가능성 연구,” 제 17 회 한국로봇종합학술대회, 2022.
+  * **안성빈**, 이대호, 최현진, and 공경철, “웨어러블 장치를 위한 무선 공압 센서 모듈,” 제 16 회 한국로봇종합학술대회, 2021.
 <br>
 <br>
 
