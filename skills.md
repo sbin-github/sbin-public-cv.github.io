@@ -24,9 +24,9 @@ mark {
 ---
 
 ### <mark>Simulation Env. Construction</mark>
-- Isaac Gym/Sim or Mujoco environment development and interaction
+- Developing physics simulation envs based on Isaac Gym/Sim or Mujoco
 
-<img src="images/rl/rl_alg_new.png?raw=true"/>
+{% include youtube.html id="Jr3eFuiYdvE" %}
 
 ---
 ### <mark>Embedded programming</mark>
