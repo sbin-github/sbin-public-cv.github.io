@@ -58,6 +58,7 @@ Trying to stay motivated to learn and apply new knowledge and skills.
   * **S. An**, H. Choi, and K. Kong, “Development of wireless pneumatic myography sensor for real-time muscle contraction measurement,” in 2021 21st International Conference on Control, Automation and Systems (ICCAS), 2021, pp. 1895–1900.
     
 * Domestic Conference
+  * **안성빈**, 안세일, and 채제욱, “다중 자율주행 차량의 동시 배치를 위한 NMPC 기반 경로계획,” 2024 한국군사과학기술학회 추계학술대회, 2024.
   * **안성빈**, 안세일, 최성호, and 이용선, “강선력을 고려한 이차접근법 기반 강선 형상 최적 설계,” 2024 한국군사과학기술학회 종합학술대회, 2024.
   * **안성빈**, 송은석, 박정수, 최현진, and 공경철, “시뮬레이션 환경에서의 적대적 모방학습 기반 웨어러블로봇 제어의 실현 가능성 연구,” 제 17 회 한국로봇종합학술대회, 2022.
   * **안성빈**, 이대호, 최현진, and 공경철, “웨어러블 장치를 위한 무선 공압 센서 모듈,” 제 16 회 한국로봇종합학술대회, 2021.
